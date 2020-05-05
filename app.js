@@ -2165,5 +2165,3 @@ alert(Math.min(1, 2)); //1
 alert(Math.pow(2, 10)); // 2 in power 10 = 1024
 
 //Tasks
-
-
